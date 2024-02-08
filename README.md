@@ -1,4 +1,5 @@
-# This is a snake clone game for learning python
+### A simple snake clone game for learning python
+
 
 ## Make virtual environment: 
 ```
