@@ -1,3 +1,5 @@
+# This is a snake clone game for learning python
+
 # Make virtual environment: 
     python -m venv .venv
 
