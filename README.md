@@ -1,4 +1,4 @@
-### A simple snake clone game for learning python
+# A simple snake clone game for learning python. 
 
 
 ## Make virtual environment: 
@@ -20,3 +20,6 @@ pip install pygame
 ```
 py main.my
 ```
+
+## Helpful notes
+### 'Ctrl+Shfit+V' Opens readme.md in preview mode 
