@@ -22,4 +22,7 @@ py main.my
 ```
 
 ## Helpful notes
-### 'Ctrl+Shfit+V' Opens readme.md in preview mode 
+### Opens readme.md in preview mode 
+```
+Ctrl+Shfit+V
+```
